@@ -135,7 +135,7 @@ __version__ = "1.1"
 
 VIDEO_EXTENSIONS = {
     ".mp4", ".mov", ".avi", ".mkv", ".wmv", ".flv", ".webm",
-    ".m4v", ".mpg", ".mpeg", ".3gp", ".ts", ".m2ts", ".ogv",
+    ".m4v", ".mpg", ".mpeg", ".3gp", ".m2ts", ".ogv",
 }
 
 # Fractions of the way through each video to sample a frame from, for the
